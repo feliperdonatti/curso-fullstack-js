@@ -1,0 +1,6 @@
+comando npm run dev compila e roda a aplicacaode acordo com o script comfigurado no package.json
+
+comando tsc para compilar
+
+o dotenv/config no comando node(dentro do arquivo package.json), vai dizer ao node para subir a aplicação com as variaveis de ambiente, 
+exemplo: porta do servidor
